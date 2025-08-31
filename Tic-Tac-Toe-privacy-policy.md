@@ -52,7 +52,7 @@
 قد نقوم بتحديث هذه السياسة عند الحاجة.  
 سيتم نشر أي تحديثات على هذا الرابط:  
 
-🔗 [رابط دائم لسياسة الخصوصية](https://github.com/AhmedELSayed86/privacy-policies/edit/main/SparePartsSearch-privacy-policy.md)
+🔗 [رابط دائم لسياسة الخصوصية](https://github.com/AhmedELSayed86/privacy-policies/blob/main/Tic-Tac-Toe-privacy-policy.md)
 
 ---
 
